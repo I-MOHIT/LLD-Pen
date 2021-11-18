@@ -19,3 +19,5 @@
 
 ---
 # Class Diagram
+
+![Alt text](./Pen_ClassDiagram.jpg?raw=true "Class Diagram")
